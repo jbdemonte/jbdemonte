@@ -9,7 +9,7 @@
 #### :book:
 
 ##### Reading
-- [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.fr/dp/0471782661)
+- [Les décompilateurs: L'univers en tête](https://www.amazon.fr/gp/product/249323023X/)
 
 
 ##### TBR
@@ -26,7 +26,6 @@
 - [The Rust Programming Language, 2nd Edition](https://www.amazon.fr/dp/1718503105)
 - [La Cryptographie déchiffrée: Une introduction pratique au chiffrement moderne](https://www.amazon.fr/dp/2100848577)
 - [Intelligence artificielle 4e édition](https://www.amazon.fr/gp/product/2326002210)
-- [Les décompilateurs: L'univers en tête](https://www.amazon.fr/gp/product/249323023X/)
 - [MathGame - Mathématiques pour les jeux vidéo](https://www.amazon.fr/gp/product/B0D8PZGDRR/)
 
 ##### Read - 2024
@@ -35,6 +34,7 @@
 - [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.fr/dp/0316380520)
 - [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.fr/dp/1491941197)
 - [Understanding Distributed Systems, Second Edition: What every developer should know about large distributed applications](https://www.amazon.fr/dp/1838430210)
+- [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.fr/dp/0471782661)
 
 ##### Read - 2023
 - [Game Engine Black Book Wolfenstein 3D: v2.2](https://www.amazon.fr/gp/product/B0BMSKYV5R/)
