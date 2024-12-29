@@ -9,13 +9,12 @@
 #### :book:
 
 ##### Reading
-- [Les décompilateurs: L'univers en tête](https://www.amazon.fr/gp/product/249323023X/)
+- [Red Team Development and Operations: A practical guide](https://www.amazon.fr/dp/B083XVG633)
 
 
 ##### TBR
 - [The Art of WebAssembly: Build Secure, Portable, High-Performance](https://www.amazon.fr/dp/1718501447)
 - [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.fr/dp/1980901759)
-- [Red Team Development and Operations: A practical guide](https://www.amazon.fr/dp/B083XVG633)
 - [The Art of Deception - Controlling the Human Element of Security](https://www.amazon.fr/dp/076454280X)
 - [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.fr/dp/1593271441)
 - [L'électronique par le schéma](https://www.amazon.fr/dp/2100063065?)
@@ -35,6 +34,7 @@
 - [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.fr/dp/1491941197)
 - [Understanding Distributed Systems, Second Edition: What every developer should know about large distributed applications](https://www.amazon.fr/dp/1838430210)
 - [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.fr/dp/0471782661)
+- [Les décompilateurs: L'univers en tête](https://www.amazon.fr/gp/product/249323023X/)
 
 ##### Read - 2023
 - [Game Engine Black Book Wolfenstein 3D: v2.2](https://www.amazon.fr/gp/product/B0BMSKYV5R/)
