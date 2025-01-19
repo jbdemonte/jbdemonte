@@ -9,7 +9,7 @@
 #### :book:
 
 ##### Reading
-- [Red Team Development and Operations: A practical guide](https://www.amazon.fr/dp/B083XVG633)
+- [Intelligence artificielle 4e édition](https://www.amazon.fr/gp/product/2326002210)
 
 
 ##### TBR
@@ -24,8 +24,14 @@
 - [The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition](https://www.amazon.fr/dp/0135957052)
 - [The Rust Programming Language, 2nd Edition](https://www.amazon.fr/dp/1718503105)
 - [La Cryptographie déchiffrée: Une introduction pratique au chiffrement moderne](https://www.amazon.fr/dp/2100848577)
-- [Intelligence artificielle 4e édition](https://www.amazon.fr/gp/product/2326002210)
 - [MathGame - Mathématiques pour les jeux vidéo](https://www.amazon.fr/gp/product/B0D8PZGDRR/)
+- [Méthodes de design UX: 30 méthodes fondamentales pour concevoir des expériences optimales](https://www.amazon.fr/dp/2212673981)
+- [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.fr/dp/0997316020)
+- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/gp/product/0137909101/)
+- [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.fr/gp/product/B085RR67H5)
+- [LFM 2nd Edition: Linux Field Manual](https://www.amazon.fr/gp/product/1736526782/)
+- [Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things](https://www.amazon.fr/gp/product/1718500904/)
+- [RTFM: Red Team Field Manual v2](https://www.amazon.fr/gp/product/B0BCS93Y55)
 
 ##### Read - 2024
 - [Accelerate: The Science Behind Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.fr/dp/1942788339)
@@ -35,6 +41,7 @@
 - [Understanding Distributed Systems, Second Edition: What every developer should know about large distributed applications](https://www.amazon.fr/dp/1838430210)
 - [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.fr/dp/0471782661)
 - [Les décompilateurs: L'univers en tête](https://www.amazon.fr/gp/product/249323023X/)
+- [Red Team Development and Operations: A practical guide](https://www.amazon.fr/dp/B083XVG633)
 
 ##### Read - 2023
 - [Game Engine Black Book Wolfenstein 3D: v2.2](https://www.amazon.fr/gp/product/B0BMSKYV5R/)
