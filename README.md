@@ -1,54 +1,92 @@
-## Hey there 👋
+<a href="https://jb.demonte.fr/" target="_blank">
+  <img src="https://demonte.fr/banner.webp" alt="Jean-Baptiste Demonte - Freelance Developer Banner" />
+</a>
 
-#### Somethings about me :smile:
+<p align="center">
+  <strong>🚀 Freelance Full-Stack Developer — Go | TypeScript | React</strong><br/>
+  I've been writing code for over 20 years — it's not just my job, it's my passion. <br/> 
+  I focus on delivering clean, scalable, and maintainable software — backed by strong code quality and architectural thinking.
+</p>
 
-- Developer and software engineer since 2005 - Freelance since 2020
-- A Fullstack Dev who loves working in TypesScript / Golang Ecosystem!
-- Loves everything about retro-gaming - I collect old video game consoles - I like to fix them :video_game:
+---
 
-#### :book:
+## 👨‍💻 About Me
 
-##### Reading
-- [Intelligence artificielle 4e édition](https://www.amazon.fr/gp/product/2326002210)
+I'm **Jean-Baptiste Demonte**, a passionate full-stack developer and freelance engineer.  
+I've been writing code for over 20 years — it's both my job and my hobby.
 
+I’ve spent most of my career working in startups, often from scratch — designing systems, building teams, shipping products.  
+Along the way, I’ve also been **CTO and co-founder**, leading tech teams, scaling products, and helping raise funding for ambitious projects.  
+I love environments where I can have real impact, learn fast, and shape things from the ground up.
 
-##### TBR
-- [The Art of WebAssembly: Build Secure, Portable, High-Performance](https://www.amazon.fr/dp/1718501447)
-- [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.fr/dp/1980901759)
-- [The Art of Deception - Controlling the Human Element of Security](https://www.amazon.fr/dp/076454280X)
-- [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.fr/dp/1593271441)
-- [L'électronique par le schéma](https://www.amazon.fr/dp/2100063065?)
-- [React and React Native - Fifth Edition: Build cross-platform JavaScript and TypeScript apps for the web, desktop, and mobile](https://www.amazon.fr/dp/1805127306)
-- [A Philosophy of Software Design, 2nd Edition](https://www.amazon.fr/dp/173210221X)
-- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/dp/0321125215)
-- [The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition](https://www.amazon.fr/dp/0135957052)
-- [The Rust Programming Language, 2nd Edition](https://www.amazon.fr/dp/1718503105)
-- [La Cryptographie déchiffrée: Une introduction pratique au chiffrement moderne](https://www.amazon.fr/dp/2100848577)
-- [MathGame - Mathématiques pour les jeux vidéo](https://www.amazon.fr/gp/product/B0D8PZGDRR/)
-- [Méthodes de design UX: 30 méthodes fondamentales pour concevoir des expériences optimales](https://www.amazon.fr/dp/2212673981)
-- [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.fr/dp/0997316020)
-- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/gp/product/0137909101/)
-- [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.fr/gp/product/B085RR67H5)
-- [LFM 2nd Edition: Linux Field Manual](https://www.amazon.fr/gp/product/1736526782/)
-- [Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things](https://www.amazon.fr/gp/product/1718500904/)
-- [RTFM: Red Team Field Manual v2](https://www.amazon.fr/gp/product/B0BCS93Y55)
+Today I focus on **Go**, **TypeScript**, and **React**, and I care deeply about clean code, good architecture, and developer experience.  
+I'm also into **retro-gaming**, AI, and regularly follow MOOCs to keep learning.  
 
-##### Read - 2024
-- [Accelerate: The Science Behind Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.fr/dp/1942788339)
-- [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.fr/dp/1098139291)
-- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.fr/dp/0316380520)
-- [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.fr/dp/1491941197)
-- [Understanding Distributed Systems, Second Edition: What every developer should know about large distributed applications](https://www.amazon.fr/dp/1838430210)
-- [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.fr/dp/0471782661)
-- [Les décompilateurs: L'univers en tête](https://www.amazon.fr/gp/product/249323023X/)
-- [Red Team Development and Operations: A practical guide](https://www.amazon.fr/dp/B083XVG633)
+Whenever I can, I contribute to open source — it’s my way of giving back 🌍
 
-##### Read - 2023
-- [Game Engine Black Book Wolfenstein 3D: v2.2](https://www.amazon.fr/gp/product/B0BMSKYV5R/)
-- [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.fr/dp/0134494164)
+---
 
-#### You can reach out to me at
+## ⚙️ What I Do
 
-- [Twitter](https://twitter.com/jbdemonte)
-- [jb.demonte.fr](https://jb.demonte.fr/)
+- 🔧 Build full-stack apps from scratch (frontend + backend)
+- ⚙️ Design clean, scalable, and maintainable APIs and backend services
+- ⚡ Develop modern, performant, and pixel-perfect frontends (React, Vite, MUI…)
+- 🧰 Create tools, scrapers, CLIs, emulator frontends, and developer utilities
+- 🧱 Improve legacy codebases and enhance developer experience
+- 🕹️ Work on side projects related to games, emulation, and creative tools
 
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Go, TypeScript, JavaScript — Python (past)
+- **Backend**: Go, Node.js, REST, WebSockets, WebRTC
+- **Frontend**: React, Vite, MUI
+- **DevOps**: Docker, GitHub/GitLab CI, Linux — more bare-metal than cloud ☁️  
+  (capable of setting up Nginx, PostgreSQL, certs, etc. on a raw Debian server)
+- **Also into**: Raspberry Pi, 3D Printing, specialized tools
+
+---
+
+## 🎮 Side Projects
+
+I love building things for fun, learning, or pure curiosity.  
+I've created and maintained dozens of side projects over the years — some public, many private.
+
+One of my current favorites is a pure front-end platform built with **React**, **MUI**, and **TypeScript**, which emulates a vintage CRT TV.  
+It lets you play NES games directly in the browser using **Mesen** compiled to **WebAssembly**.
+
+🕹️ **Try it here**: [jb.demonte.fr/wasm-tv](https://jb.demonte.fr/wasm-tv)  
+📺 **Watch the dev log** (1 month build): [YouTube Playlist](https://www.youtube.com/watch?v=2D-hpwQ9GpI&list=PLanKz10e7sIyxx8PWMDxf3mMb-0vX8RFo)
+
+I also contribute to [Recalbox](https://www.recalbox.com/), an open-source retro-gaming OS for Raspberry Pi and PC.
+
+---
+
+## 🚀 Featured Projects
+
+- [`Virtual Device`](https://github.com/jbdemonte/virtual-device) — Simulate input devices on Linux via `uinput` (Go, high-level API)
+- [`Game Library`](https://github.com/jbdemonte/game-library-frontend) — Desktop-style window manager in React with metadata scraping  
+  👉 [Read the article](https://dev.to/jbdemonte/create-a-window-manager-with-react-3mak)
+
+Other past projects are no longer maintained or up to date — but feel free to browse my repositories!
+
+---
+
+## 📚 Books & Learning
+
+I like to keep learning, and I’m always reading something or following a course.  
+📖 [See my full reading list & MOOCs →](./books.md)
+
+---
+
+## 📬 You can reach out to me at
+
+- 🐦 [Twitter](https://twitter.com/jbdemonte)
+- 🌐 [jb.demonte.fr](https://jb.demonte.fr/)
+
+---
+
+<p align="center">
+  🤖 This README was proudly crafted with a little help from <a href="https://openai.com/chatgpt" target="_blank">ChatGPT</a>
+</p>
