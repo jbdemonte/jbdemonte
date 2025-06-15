@@ -8,9 +8,9 @@ I also follow a few **MOOCs and online resources** to stay sharp or explore nich
 - [NES Game Programming — Pikuma](https://pikuma.com/courses/nes-game-programming-tutorial)
 - [CNRS Formation FIDLE — YouTube](https://www.youtube.com/c/CNRSFormationFIDLE)
 
-### 📖 Currently reading 
- 
-- [Intelligence artificielle 4e édition](https://www.amazon.fr/gp/product/2326002210)
+### 📖 Currently reading
+
+- [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.fr/Cult-Dead-Cow-Original-Supergroup/dp/154176238X)
 
 
 ### 📘 Recently read
@@ -19,6 +19,7 @@ I also follow a few **MOOCs and online resources** to stay sharp or explore nich
 - [Concurrency in Go](https://www.amazon.fr/dp/1491941197)
 - [Understanding Distributed Systems](https://www.amazon.fr/dp/1838430210)
 - [Accelerate](https://www.amazon.fr/dp/1942788339)
+- [The Sprite Decade: An architecture analysis of home video game consoles from 1983 to 1990](https://www.amazon.fr/Sprite-Decade-architecture-analysis-consoles/dp/B0F9LQPPNZ)
 
 
 ### 📚 To Be Read 
@@ -42,6 +43,12 @@ I also follow a few **MOOCs and online resources** to stay sharp or explore nich
 - [Linux Field Manual](https://www.amazon.fr/gp/product/1736526782/)
 - [Practical IoT Hacking](https://www.amazon.fr/gp/product/1718500904/)
 - [RTFM: Red Team Field Manual v2](https://www.amazon.fr/gp/product/B0BCS93Y55)
+- [Intelligence artificielle 4e édition](https://www.amazon.fr/gp/product/2326002210)
+- [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+- [Game Engine Black Book: DOOM: v1.2](https://www.amazon.com/Game-Engine-Black-Book-DOOM/dp/B0BMSP3GSS)
+- [The supercomputers: An architecture analysis of the Xbox 360 and PlayStation 3](https://www.amazon.com/supercomputers-architecture-PlayStation-Architecture-practical/dp/B0F4P5V47K)
+- [I Am Error: The Nintendo Family Computer / Entertainment System Platform](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262534541)
+- [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded/dp/1593278748)
 
 <details>
 <summary>✅ Read - 2024</summary>
