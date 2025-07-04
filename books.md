@@ -11,6 +11,7 @@ I also follow a few **MOOCs and online resources** to stay sharp or explore nich
 ### 📖 Currently reading
 
 - [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.fr/Cult-Dead-Cow-Original-Supergroup/dp/154176238X)
+- [Le bug humain](https://www.amazon.fr/Bug-humain-S%C3%A9bastien-BOHLER/dp/2221240103)
 
 
 ### 📘 Recently read
